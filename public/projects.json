@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/3BjvvD1/sura-0.png",
+    "img1": "https://i.ibb.co/G7F2Qc1/sura-1.png",
+    "img2": "https://i.ibb.co/brFPwN1/sura-2.png",
+    "img3": "https://i.ibb.co/Q96Xgwg/sura-3.png",
+    "name": "Sura Tools",
+    "description": "Sura Tools website is a parts or tools of many kind of products based website. It's a kind of shop management system. Here user can sign in freely with user email account and can create their own profile. User can see all product's details, User also know about the new arrival products, can order the products as their needs, also can cancel their order and can payment as of their desired orders. User can see inventory items and new arrival items. Also user will see the company policy, services, new arrivals products's offers, company features, Testimonials of the Clients reviews, clients can add their review, and the Business summary of ToolKits Ltd. On the other hand, Admin panel can also Visit and update their profile. Admin will see all the orders, they can manage the orders, and they can also make someone a admin.",
+    "details": [
+      {
+        "step": "For UI design, I use React-router-dom, Tailwind CSS, Daisy UI, Vanilla CSS, Daisy UI icons."
+      },
+      {
+        "step": "For authentication, password rest and email verified I use Firebase authentication and React-firebase-hooks. Also use react-firebase-hooks for get logged in users information such as display name, email etc. I also use Firebase hosting for client side hosting. I also use React-form and html form."
+      },
+      {
+        "step": "In this project I use React-router for Routing. And I also use dynamic routing. I create a dashboard with nested-route."
+      },
+      {
+        "step": "Also use react-toastify for toast, use axios for fetching data server side to client side and client side to server side, use heroku for hosting server side."
+      },
+      {
+        "step": "I use stripe to make payment method. I have added the method of pay with Master Card, Debit Card, Transaction id etc."
+      }
+    ],
+    "githubClient": "https://github.com/SuraiyaAkterTrishna/sura-tools",
+    "githubServer": "https://github.com/SuraiyaAkterTrishna/sura-tools-server",
+    "link": "https://sura-tools.vercel.app",
+    "tools": [
+      "React",
+      "TailwindCSS",
+      "DaisyUI",
+      "React Router",
+      "Firebase",
+      "React Firebase Hooks",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "React toastify",
+      "Stripe",
+      "JWT token"
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/XSjWkX3/image.png",
+    "img1": "https://i.ibb.co/ZSVQVZM/1.png",
+    "img2": "https://i.ibb.co/PZHD9Jz/2.png",
+    "img3": "https://i.ibb.co/wdCmm9n/3.png",
+    "img4": "https://i.ibb.co/4V1Yf5d/4.png",
+    "img5": "https://i.ibb.co/wCL0wMb/5.png",
+    "name": "College Finder",
+    "description": "The College Finder Application is a comprehensive platform designed to streamline the process of searching, booking, and applying for colleges. This project leverages modern web technologies to provide a seamless and responsive user experience, ensuring that users can easily navigate and utilize the application's features across various devices. The College Finder Application is a full-featured platform that addresses the needs of students seeking higher education opportunities. By integrating advanced search and booking functionalities, secure user authentication, responsive design, admission form submission, review sections, and comprehensive profile management, this application provides a one-stop solution for college applicants. Utilizing modern technologies such as React.js, Daisy UI, Node.js, Express.js, Firebase, Vercel, and MongoDB, the project delivers a robust and user-friendly experience for all users.",
+    "details": [
+      {
+        "step": "College booking and search functionality, user authentication and responsive design."
+      },
+      {
+        "step": "Admission form submission functionality. Review section for user feedback on colleges."
+      },
+      {
+        "step": "In this project i use react-router for routing. And I also use dynamic routing."
+      },
+      {
+        "step": "Also use sweet alert for toast, use axios for fetching data server side to client side and client side to server side, use vercel for hosting server side."
+      },
+      {
+        "step": "I use mongoDB for store data in server side. Here i create some api for store college detail, Profile editing with name, email, university, and address updates."
+      }
+    ],
+    "githubClient": "https://github.com/SuraiyaAkterTrishna/college-finder-client",
+    "githubServer": "https://github.com/SuraiyaAkterTrishna/college-finder-server",
+    "link": "https://college-finder-client.vercel.app",
+    "tools": [
+      "React",
+      "Daisy UI",
+      "React Firebase Hooks",
+      "React Router",
+      "Firebase",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "Sweet alert",
+      "Vercel",
+      "Axios",
+      "React Hook Form"
+    ]
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/ThfT3gv/sura-tour-home.png",
+    "img1": "https://i.ibb.co/xmvfqf1/sura-tour.png",
+    "name": "Sura Tour",
+    "description": "Sura Tours, is a responsive travel website, utilizing React and SCSS. Designed and implemented sections encompassing banner, about, features, popular tours booking, client feedback, and contact. Proficiently integrated interactive elements while ensuring seamless UI/UX. Demonstrated adeptness in front-end development, user-centric design, and responsive web design principles.",
+    "details": [
+      {
+        "step": "Sura Tours is a responsive travel website, utilizing React and SCSS."
+      },
+      {
+        "step": "Proficiently integrated interactive elements while ensuring seamless UI/UX."
+      },
+      {
+        "step": "In this project I use React-router for Routing. And I also use dynamic routing. I create a dashboard with nested-route."
+      },
+      {
+        "step": "Also use react-toastify for toast, use axios for fetching data server side to client side and client side to server side, use heroku for hosting server side."
+      },
+      {
+        "step": "I use stripe to make payment method. I have added the method of pay with Master Card, Debit Card, Transaction id etc."
+      }
+    ],
+    "githubClient": "https://github.com/SuraiyaAkterTrishna/sura-tours",
+    "link": "https://sura-tour.netlify.app/",
+    "tools": ["React", "SASS", "React Router", "Node.js"]
+  }
+]
